@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "outDir": "./",
+    "moduleResolution": "node"
+  },
+  "files": [
+    "./index.ts"
+  ]
+}

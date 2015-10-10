@@ -1,0 +1,12 @@
+{
+  "name": "mylib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "preinstall": "tsc -p ."
+  },
+  "author": "",
+  "license": "ISC"
+}
